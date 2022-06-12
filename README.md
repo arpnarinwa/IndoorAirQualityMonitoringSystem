@@ -44,3 +44,20 @@ This Device will give us useful information on real time data of Particles and g
 4.	DHT11 Sensor	
 5.	Dust Optical Sensor	
 		
+
+Results:
+App
+![Design](https://user-images.githubusercontent.com/82890150/173240730-22253738-97a9-4d26-97c2-59d105a59829.JPG)
+
+THinkSpeak 
+![Design](https://user-images.githubusercontent.com/82890150/173240757-eaa10628-6e97-46c5-b027-dd6c6b74005b.JPG)
+
+![Design](https://user-images.githubusercontent.com/82890150/173240791-496eeab9-72de-4a75-b49f-9c29124aafab.JPG)
+
+![Design](https://user-images.githubusercontent.com/82890150/173240806-c4972eab-1cdc-4735-a535-8b45e4d2aaac.JPG)
+
+Schemetic Design
+![Design](https://user-images.githubusercontent.com/82890150/173241231-72e153ed-f84b-4f72-94d8-c1ea71d4f17e.JPG)
+
+PCB Design
+![Design](https://user-images.githubusercontent.com/82890150/173241247-edb3d8c9-b0c1-455a-b9f7-b6d17da9b18d.JPG)
