@@ -24,7 +24,9 @@ We spend up to 90% of our time indoors, but how often do we think about the qual
 Poor indoor air quality in the workplace can contribute to decreased productivity, absenteeism, and even possible litigation. 
 This Device will give us useful information on real time data of Particles and gases like Co2, CO, VOC and PM2.5 present in indoor air, so that we can take action for our good health.
 
-![Design][(https://user-images.githubusercontent.com/82890150/173240482-f8b1e50e-433c-48f9-a3b1-d5cd8934cac9.JPG)]
+![Design](https://user-images.githubusercontent.com/82890150/173240482-f8b1e50e-433c-48f9-a3b1-d5cd8934cac9.JPG)
+
+
  4.3 Purposed System
 
 •	What will Customer gain from product?
