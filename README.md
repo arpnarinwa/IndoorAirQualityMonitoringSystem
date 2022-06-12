@@ -25,7 +25,7 @@ Poor indoor air quality in the workplace can contribute to decreased productivit
 This Device will give us useful information on real time data of Particles and gases like Co2, CO, VOC and PM2.5 present in indoor air, so that we can take action for our good health.
 
 ![Design](https://user-images.githubusercontent.com/82890150/161820226-8eb224f7-4126-4cbc-935c-78e10f5d8c07.JPG)
- 
+ 4.3 Purposed System
 
 •	What will Customer gain from product?
 
